@@ -22,6 +22,8 @@ title: SNHU CS-499 Capstone Portfolio
 email: arka.kaythi.tu@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Capstone Portfolio
+baseurl: "/snhu-capstone" # the subpath of your site, e.g. /blog
+url: "https://arka2.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: arka2_arka9
 github_username:  arka2
 
