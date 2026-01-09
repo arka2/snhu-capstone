@@ -1,2 +1,2 @@
 # snhu-capstone
-CS-499 Capstone course at SNHU test
+CS-499 Capstone course at SNHU
