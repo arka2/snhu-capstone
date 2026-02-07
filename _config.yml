@@ -10,7 +10,7 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 site.baseurl: /snhu-capstone
-url: https://arka2.github.io
+site.url: https://arka2.github.io/
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Arka Tu"
