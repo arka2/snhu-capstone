@@ -2,8 +2,8 @@
 layout: post
 title: "Enhancement One -- Unity Tooling"
 author: "Arka Tu"
-categories: 
-tags: []
+categories: projects
+tags: [projects]
 image: header-01.png
 ---
 [GitHub Repository](https://github.com/arka2/cs465-fullstack)
