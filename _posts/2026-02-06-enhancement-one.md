@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "Enhancement One -- Unity Tooling"
+title: "Enhancement One - Unity Tooling"
 author: "Arka Tu"
 categories: projects
 tags: [projects]
 image: header-01.png
 ---
-TODO: Add actual repo
-[GitHub Repository](https://github.com/arka2/cs465-fullstack)
+[GitHub Repository](https://github.com/arka2/unity-2D-tile-edtior)
 
 ## Briefly describe the artifact. What is it? When was it created?
 This artifact is a modified version of the Unity 2D Tile Editor package. I’m part of the team developing Shards Between Us, and the default Tile Editor is missing features that would help speed up designing levels. This version of the package (1.0.0) was released in 2019.
