@@ -4,7 +4,7 @@ title: "Enhancement Three - Using the MEAN Stack"
 author: "Arka Tu"
 categories: projects
 tags: [projects]
-image: header-01.png
+image: header-03.png
 ---
 [GitHub Repository](https://github.com/arka2/cs465-fullstack)
 

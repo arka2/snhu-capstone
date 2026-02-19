@@ -4,7 +4,7 @@ title: "Enhancement Two - Rendering with OpenGL"
 author: "Arka Tu"
 categories: projects
 tags: [projects]
-image: header-01.png
+image: header-02.png
 ---
 [GitHub Repository](https://github.com/arka2/opengl-rendering)
 
