@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Self-Assessment
+title: Professional Self-Assessment
 category: self-assessment
 permalink: /self-assessment
 ---
