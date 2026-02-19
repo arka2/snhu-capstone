@@ -18,8 +18,6 @@ Originally, the application connected to a MongoDB database to retrieve trip and
 
 My enhancement of this project involved adding the ability to delete trips, adding resorts to the database, and adding a new page to the SPA to show available resorts. Additionally, I fixed the rendering issue. The ability to delete trips makes it much easier for admins to interact with the database, since the original application lacked an essential feature. The addition of resorts also make it easier for an organization to make decisions regarding trips and resorts since they can easily access that information.
 
-
-
 ## Did you meet the course outcomes you planned to meet with this enhancement in Module One? Do you have any updates to your outcome-coverage plans?
 The course outcomes I planned to meet with this artifact were:
 1. Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science
@@ -34,8 +32,6 @@ I met Course Outcome 3 by using both a static HTML website for the customer-faci
 I met Course Outcome 4 by using the MEAN stack. The MEAN stack is standard in web development, and it’s important for me to understand how each piece works together. This project also gave me more experience with MongoDB, as I had only used it in one course before CS-465. I also hadn’t used Express or Angular before that course, so this project demonstrates my ability to use both of those.
 
 I met Course Outcome 5 by ensuring that a user cannot add, edit, or delete a trip without being authenticated. The original project had a defect where nothing would happen if a logged in user tried to add, edit, or delete a trip, but this defect only occurred after introducing JWTs (JSON Web Tokens) to authenticate users. The modified project fixes this, and logged in users can now perform those functions.
-
-
 
 ## Reflect on the process of enhancing and modifying the artifact. What did you learn as you were creating it and improving it? What challenges did you face?
 Throughout the CS-465 course, I struggled with the problem of the trip cards not rendering. I had spoken with classmates about this, and they had the same issue. Someone had suggested downgrading Angular to the version that was used in the demonstration and guides. I tried that during the course, but it had broken other functionality. As I was working on this project for my capstone, I attempted to downgrade Angular again. This time, it didn’t break any functionality, and I’m not entirely sure what I did differently.
