@@ -8,6 +8,7 @@ google-ID: 'UA-112060364-2'
 
 menu:
 - {name: 'Code Review',           url: 'code-review'}
+- {name: 'Self Assessment',       url: 'self-assessment'}
 - {name: 'Projects',              url: 'projects'}
 - {name: 'About Me',              url: 'about'}
 
