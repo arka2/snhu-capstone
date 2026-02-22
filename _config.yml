@@ -14,7 +14,7 @@ site.url: https://arka2.github.io/
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Arka Tu"
-description:	       "Technical art portfolio"
+description:	       "SNHU Capstone Portfolio"
 author:              "Arka Tu"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
